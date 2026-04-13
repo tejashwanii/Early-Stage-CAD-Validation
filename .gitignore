@@ -1,0 +1,15 @@
+node_modules
+dist
+build
+.vite
+__pycache__
+*.pyc
+.env
+backend/data/uploads/*
+backend/data/previews/*
+backend/data/reports/*
+backend/data/results/*
+!backend/data/uploads/.gitkeep
+!backend/data/previews/.gitkeep
+!backend/data/reports/.gitkeep
+!backend/data/results/.gitkeep
